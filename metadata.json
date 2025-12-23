@@ -1,0 +1,7 @@
+{
+  "name": "Chennai Spice Voice Agent",
+  "description": "A real-time AI voice agent for a food court with an Indian persona, capable of taking orders using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
